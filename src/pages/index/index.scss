@@ -1,0 +1,18 @@
+#fi {
+    background: red;
+    a {
+        color: #ffffff;
+    }
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.column {
+    flex-basis: 100%;
+    display: flex;
+    justify-content: space-between;
+}
